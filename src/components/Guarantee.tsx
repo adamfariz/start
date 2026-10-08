@@ -31,7 +31,7 @@ export default function Guarantee() {
           className="text-5xl md:text-7xl font-inter font-black tracking-tighter text-white mb-6 leading-tight"
         >
           Stop losing customers to <br className="hidden md:block" />
-          <span className="text-transparent bg-clip-text bg-gradient-to-r from-gray-500 to-gray-700 italic font-fraunces font-light">slow, outdated</span> websites.
+          <span className="text-transparent bg-clip-text bg-gradient-to-r from-gray-500 to-gray-700 italic font-fraunces font-light pr-2">slow, outdated</span> websites.
         </motion.h2>
 
         {/* Subtitle */}
